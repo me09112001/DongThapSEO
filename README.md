@@ -1,7 +1,7 @@
 # DongThapSEO
 Mã nguồn web kiểm tra điểm web, tốc độ,... domain gốc dongthapseo.com
 
-Một vài hình ảnh: https://i.ytimg.com/vi/MEdbZ0FkAtA/maxresdefault.jpg  
+## Preview  
 ![dongthapseo.com](https://i.imgur.com/QycKRLX.png)
 
 Video demo:  https://www.youtube.com/watch?v=MEdbZ0FkAtA
@@ -18,5 +18,3 @@ Mã nguồn này không sử dụng cơ sở dữ liệu Database để lưu tr�
 
 #Điều bạn có thể làm?
 - Nâng cấp chuyển sang lưu Database
-
-Cảm ơn bạn đã ghé thăm :) Nhớ ghi nguồn để tôn trọng tác giả với nhé :3
